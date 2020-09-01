@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Antonio Cambronero
+name: Juan Diaz
 
 # Short bio or description (displayed in the header)
-description: Informático, blogger y profesor.
+description: Fotografo, antropologo y profesor.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/YO-70x70.png
@@ -22,13 +22,13 @@ footer-links:
   facebook: 
   flickr:
   github: 
-  instagram: blogpocket
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: blogpocket
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/blogpocket
+  youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://emberaboyaca.github.io/blogpocket
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/blogpocket"
 
 #
 # !! You don't need to change any of the configuration flags below !!
